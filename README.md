@@ -12,7 +12,7 @@
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
 
-### conecte-se comigo
+###Conecte-se comigo
 
 [![LinkedIn]https://www.linkedin.com/in/juliasouzaarruda/
 [![Instagram]https://www.instagram.com/vish_juhkkkkkjkj/
