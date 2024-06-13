@@ -14,7 +14,7 @@
 
 ###Conecte-se comigo
 
-[![LinkedIn]https://www.linkedin.com/in/juliasouzaarruda/](https://www.linkedin.com/in/juliasouzaarruda/)
+[![LinkedIn]](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/juliasouzaarruda/)
 [![Instagram]https://www.instagram.com/vish_juhkkkkkjkj/]
 
 
