@@ -12,11 +12,11 @@
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
 
-### Connect with me
+### conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elicosmaker/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
+[![LinkedIn]https://www.linkedin.com/in/juliasouzaarruda/
+[![Instagram]https://www.instagram.com/vish_juhkkkkkjkj/
+
 
 ### GitHub Stats
 
