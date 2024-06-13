@@ -14,8 +14,8 @@
 
 ###Conecte-se comigo
 
-[![LinkedIn]https://www.linkedin.com/in/juliasouzaarruda/
-[![Instagram]https://www.instagram.com/vish_juhkkkkkjkj/
+[![LinkedIn]https://www.linkedin.com/in/juliasouzaarruda/]
+[![Instagram]https://www.instagram.com/vish_juhkkkkkjkj/]
 
 
 ### GitHub Stats
